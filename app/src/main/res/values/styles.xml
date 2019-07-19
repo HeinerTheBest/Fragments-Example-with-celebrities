@@ -8,4 +8,10 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="TextList" parent="AppTheme">
+        <!-- Customize your theme here. -->
+        <item name="android:textColor">@color/colorWhite</item>
+    </style>
+
+
 </resources>
